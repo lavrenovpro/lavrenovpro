@@ -2,7 +2,7 @@
 Java Developer
 
 ### About
-Java Developer with 7 years of commercial experience, working in teams ranging from 2 to 10 members, both remotely and on-site. Have 17+ years of overall IT experience, including Cisco network enginering and VMware virtualization.
+Java Developer with 7 years of commercial experience, working in teams ranging from 2 to 10 members, both remotely and on-site. Have 17+ years of overall IT experience, including Cisco network engineering and VMware virtualization.
 
 ### Skills
 **Languages:** Java, Kotlin, Python, TypeScript, Go, SQL,<br>
@@ -37,7 +37,7 @@ Tech. stack: Java 8, Maven, Spring, JUnit, Mockito, Kafka, WildFly.
 
 
 ## Education
-National University of Science and Technology "MISIS” Specialist, 
+National University of Science and Technology "MISIS" Specialist, 
 Applied Information Technology in Economics — 2005 - 2011
 
 ## Certification
