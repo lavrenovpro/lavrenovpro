@@ -10,7 +10,7 @@ Java Developer with 7 years of commercial experience, working in teams ranging f
 **Databases/Message Brokers:** PostgresSQL, Kafka, MongoDB, Oracle,<br>
 **Technologies:** Linux, Docker, Kubernetes, Gradle, Maven, Grafana, Prometheus, ELK, bash, ssh, ChatGPT,<br>
 
-## EXPERIENCE
+## Experience
 ### Senior Java Developer, RE-Partners, Turkie, Kazakhstan — July 2021–Present
 Were developing KYC automation subsystem for Citibank.<br>
 Tech. stack: Kotlin, Gradle, Springboot, Mongo, Kafka, REST, Openshift.
