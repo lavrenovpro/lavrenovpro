@@ -1,10 +1,10 @@
 # Alexander Lavrenov
 Java Developer
 
-### About
+## About
 Java Developer with 7 years of commercial experience, working in teams ranging from 2 to 10 members, both remotely and on-site. Have 17+ years of overall IT experience, including Cisco network engineering and VMware virtualization.
 
-### Skills
+## Skills
 **Languages:** Java, Kotlin, Python, TypeScript, Go, SQL,<br>
 **Frameworks/Libraries:** Spring Boot, Hibernate, JOOQ, RxJava, JUnit, Mockito, liquibase, Micrometer, Angular,<br>
 **Databases/Message Brokers:** PostgresSQL, Kafka, MongoDB, Oracle,<br>
