@@ -11,16 +11,16 @@ Java Developer with 7 years of commercial experience, working in teams ranging f
 **Technologies:** Linux, Docker, Kubernetes, Gradle, Maven, Grafana, Prometheus, ELK, bash, ssh, ChatGPT,<br>
 
 ## Experience
-### Senior Java Developer, RE-Partners, Turkiye, Kazakhstan — July 2021–Present
-Were developing KYC automation subsystem for Citibank.<br>
+### Senior Java Developer, RE-Partners, Türkiye, Kazakhstan — July 2021–Present
+Was developing KYC automation subsystem for Citibank.<br>
 Tech. stack: Kotlin, Gradle, Springboot, Mongo, Kafka, REST, Openshift.
 
 ### Java Developer, Zyfra, Russia — November 2019–June 2021
-Were developing kind of CRM system for oil company.<br>
+Was developing kind of CRM system for oil company.<br>
 Tech. stack: Java 11, Maven, Springboot, Jooq, Postgres, REST, Docker, Kubernetes.
 
 ### Java Developer, Bell Integrator, Russia — September 2018–November 2019
-Were developing and maintaining homemade CRM system in Moscow Exchange. Integrating with neighbor departments.<br>
+Was developing and maintaining homemade CRM system in Moscow Exchange. Integrating with neighbor departments.<br>
 Tech. stack: Java 8, ant, Maven, Spring, JSF, dhtmlx, EclipseLink, Oracle DB, Liquibase, REST, Tomcat.
 
 ### Junior Java Developer, Jet Infosystems, Russia — March 2018–September2018
